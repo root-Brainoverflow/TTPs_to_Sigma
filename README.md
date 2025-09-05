@@ -1,1 +1,1 @@
-# TTPs_to_Sigma
+# TTPs to Sigma
